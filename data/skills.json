@@ -289,9 +289,9 @@
     ]
   },
   {
-    "name": "ComposioHQ/awesome-claude-skills - document-skills/pptx",
-    "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/document-skills/pptx",
-    "description": "Creates, edits, and analyzes .pptx presentations.",
+    "name": "anthropics/pptx",
+    "url": "https://officialskills.sh/anthropics/skills/pptx",
+    "description": "Creates, edits, and reads PowerPoint slide decks and templates.",
     "category": "Study & Productivity",
     "marker": null,
     "supported_tools": [
@@ -1693,6 +1693,42 @@
     "url": "https://github.com/mpuche3/ipa-transcribe",
     "description": "Transcribes English text into stress-marked IPA to teach precise pronunciation.",
     "category": "Language Learning",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "24kchengYe/human-skill-tree - k12-languages",
+    "url": "https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-languages",
+    "description": "Practices reading, writing, listening, and speaking in a second language.",
+    "category": "Language Learning",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "Jellypod-Inc/school-skills - lecture-to-study-guide",
+    "url": "https://github.com/Jellypod-Inc/school-skills/tree/main/skills/lecture-to-study-guide",
+    "description": "Turns lecture notes and slides into a structured study guide.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "mohitagw15856/pm-claude-skills - personal-statement",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills/tree/main/skills/personal-statement",
+    "description": "Drafts university and grad-school personal statements around motivation and fit.",
+    "category": "College Applications & Career",
     "marker": null,
     "supported_tools": [
       "claude-code",

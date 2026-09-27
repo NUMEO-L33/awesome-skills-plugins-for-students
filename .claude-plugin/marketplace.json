@@ -218,14 +218,13 @@
       "description": "Analyzes your Claude Code chat history to surface coding patterns and learning gaps."
     },
     {
-      "name": "composiohq-awesome-claude-skills-document-skills-pptx",
+      "name": "anthropics-pptx",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
-        "path": "document-skills/pptx",
-        "ref": "master"
+        "url": "https://github.com/anthropics/skills.git",
+        "path": "skills/pptx"
       },
-      "description": "Creates, edits, and analyzes .pptx presentations."
+      "description": "Creates, edits, and reads PowerPoint slide decks and templates."
     },
     {
       "name": "composiohq-awesome-claude-skills-domain-name-brainstormer",
@@ -1285,6 +1284,36 @@
       "description": "Transcribes English text into stress-marked IPA to teach precise pronunciation."
     },
     {
+      "name": "24kchengye-human-skill-tree-k12-languages",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/24kchengYe/human-skill-tree.git",
+        "path": "skills/01-k12-languages",
+        "ref": "master"
+      },
+      "description": "Practices reading, writing, listening, and speaking in a second language."
+    },
+    {
+      "name": "jellypod-inc-school-skills-lecture-to-study-guide",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Jellypod-Inc/school-skills.git",
+        "path": "skills/lecture-to-study-guide",
+        "ref": "main"
+      },
+      "description": "Turns lecture notes and slides into a structured study guide."
+    },
+    {
+      "name": "mohitagw15856-pm-claude-skills-personal-statement",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/mohitagw15856/pm-claude-skills.git",
+        "path": "skills/personal-statement",
+        "ref": "main"
+      },
+      "description": "Drafts university and grad-school personal statements around motivation and fit."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1538,13 +1567,13 @@
     {
       "name": "study-productivity-bundle",
       "source": "./bundles/study-productivity-bundle",
-      "description": "Study & Productivity skills in one install (22 skills; 1 paid-key skill excluded, install separately).",
+      "description": "Study & Productivity skills in one install (23 skills; 1 paid-key skill excluded, install separately).",
       "dependencies": [
         "anthropics-docx",
         "anthropics-internal-comms",
         "anthropics-xlsx",
         "bevibing-tutor-skills",
-        "composiohq-awesome-claude-skills-document-skills-pptx",
+        "anthropics-pptx",
         "composiohq-awesome-claude-skills-file-organizer",
         "hluaguo-learn-faster-kit",
         "jakedahn-pomodoro",
@@ -1561,7 +1590,8 @@
         "vishnu-tppr-everything-cbse-board-revision-planner",
         "yylo-dev-yylo-skills-plan-ledger-tasks-yylo",
         "finewood2008-centaurai-team-team-project-tracker",
-        "yylo-dev-yylo-skills-ledger-tasks-yylo"
+        "yylo-dev-yylo-skills-ledger-tasks-yylo",
+        "jellypod-inc-school-skills-lecture-to-study-guide"
       ]
     },
     {
@@ -1650,7 +1680,7 @@
     {
       "name": "language-learning-bundle",
       "source": "./bundles/language-learning-bundle",
-      "description": "Language Learning skills in one install (12 skills).",
+      "description": "Language Learning skills in one install (13 skills).",
       "dependencies": [
         "13riank-japanese-tutor",
         "gislio-claude-language-tutor",
@@ -1663,13 +1693,14 @@
         "uriva-language-learning",
         "santimator-x3-suite-graded-reader",
         "htlin222-toefl-skill",
-        "mpuche3-ipa-transcribe"
+        "mpuche3-ipa-transcribe",
+        "24kchengye-human-skill-tree-k12-languages"
       ]
     },
     {
       "name": "college-career-bundle",
       "source": "./bundles/college-career-bundle",
-      "description": "College Applications & Career skills in one install (17 skills).",
+      "description": "College Applications & Career skills in one install (18 skills).",
       "dependencies": [
         "espindolavinicius-linkedin-growth-skill",
         "fronkt-academic-essay-reviewer",
@@ -1687,7 +1718,8 @@
         "varunr89-resume-tailoring-skill",
         "x-tong6-pscher",
         "haadhi76-sop-consultant",
-        "noamseg-interview-coach-skill"
+        "noamseg-interview-coach-skill",
+        "mohitagw15856-pm-claude-skills-personal-statement"
       ]
     },
     {

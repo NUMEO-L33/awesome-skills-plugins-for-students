@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-142-blue)
+![Skills](https://img.shields.io/badge/skills-145-blue)
 ![Plugins](https://img.shields.io/badge/plugins-27-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -86,12 +86,12 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | | Section | Count |
 | :-: | --- | :-: |
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 10 skills |
-| 🗂️ | [Study & Productivity](#study--productivity) | 23 skills |
+| 🗂️ | [Study & Productivity](#study--productivity) | 24 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 27 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 21 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 17 skills |
-| 🗣️ | [Language Learning](#language-learning) | 12 skills |
-| 🎓 | [College Applications & Career](#college-applications--career) | 17 skills |
+| 🗣️ | [Language Learning](#language-learning) | 13 skills |
+| 🎓 | [College Applications & Career](#college-applications--career) | 18 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 15 skills |
 | 🧩 | [Plugins](#plugins) | 27 plugins |
 
@@ -134,18 +134,19 @@ Several spaced-repetition study tools overlap here. To pick one: **hluaguo/learn
 Three entries generate exam-prep material with no prior note on how they differ. **sickn33/agentic-awesome-skills - examprep-ai** (this section) ranks syllabus topics into a scored roadmap with MCQs and question prediction; **pinakdhabu/Exam-prompt** (this section) generates exam answers, notes, and study plans for any university; and **HashemALSKKkAF/exam-prep-mcq** (under [Google Workspace for Students](#google-workspace-for-students)) turns study material into an MCQ quiz delivered as a Google Form.
 
 <details open>
-<summary>Show 23 skills</summary>
+<summary>Show 24 skills</summary>
 
 - **[0x-man/mindmap-skill](https://github.com/0x-man/mindmap-skill)** - Generates interactive mind maps and concept maps from notes, topics, or documents.
 - **[anthropics/docx](https://officialskills.sh/anthropics/skills/docx)** - Creates and edits Word documents with tracked changes, comments, and formatting.
 - **[anthropics/internal-comms](https://officialskills.sh/anthropics/skills/internal-comms)** - Writes status reports, newsletters, and FAQs, good for group project updates and lab reports.
+- **[anthropics/pptx](https://officialskills.sh/anthropics/skills/pptx)** - Creates, edits, and reads PowerPoint slide decks and templates.
 - **[anthropics/xlsx](https://officialskills.sh/anthropics/skills/xlsx)** - Creates and analyzes spreadsheets with formulas, charts, and data cleaning.
 - **[bevibing/tutor-skills](https://github.com/bevibing/tutor-skills)** - Turns PDFs, docs, or codebases into Obsidian study vaults with interactive quizzes.
-- **[ComposioHQ/awesome-claude-skills - document-skills/pptx](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/document-skills/pptx)** - Creates, edits, and analyzes .pptx presentations.
 - **[ComposioHQ/awesome-claude-skills - file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer)** - Organizes files and folders, finds duplicates, and cleans up your digital workspace.
 - **[finewood2008/centaurai-team - team-project-tracker](https://github.com/finewood2008/centaurai-team/tree/team/skills/builtin/team/team-project-tracker)** - Tracks a group project's tasks, owners, and deadlines on a shared markdown kanban board.
 - **[hluaguo/learn-faster-kit](https://github.com/hluaguo/learn-faster-kit)** - AI learning coach with spaced repetition, syllabi, and progress tracking.
 - **[jakedahn/pomodoro](https://github.com/jakedahn/pomodoro)** - Pomodoro timer skill that tracks and learns from your focus sessions.
+- **[Jellypod-Inc/school-skills - lecture-to-study-guide](https://github.com/Jellypod-Inc/school-skills/tree/main/skills/lecture-to-study-guide)** - Turns lecture notes and slides into a structured study guide.
 - **[mattpocock/skills - handoff](https://github.com/mattpocock/skills/tree/main/skills/productivity/handoff)** - Compresses a long study session into a handoff doc so a fresh agent can continue where you left off.
 - **[mattpocock/skills - teach](https://github.com/mattpocock/skills/tree/main/skills/productivity/teach)** - Multi-session instructor that scaffolds HTML lessons, tracks learning records, and builds reference cheat sheets.
 - **[mordor-forge/study-skill](https://github.com/mordor-forge/study-skill)** - Builds spaced-repetition study workspaces with FSRS-based lesson review scheduling.
@@ -272,9 +273,10 @@ Four entries overlap on planning and drafting a paper with no prior note on how 
 Translation practice, vocabulary drilling, and grammar correction in a target (non-English) language, for IB Language A/B and IGCSE second-language coursework.
 
 <details open>
-<summary>Show 12 skills</summary>
+<summary>Show 13 skills</summary>
 
 - **[13rianK/japanese-tutor](https://github.com/13rianK/japanese-tutor)** - Runs daily Japanese lessons with vocabulary, grammar, and graded practice.
+- **[24kchengYe/human-skill-tree - k12-languages](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-languages)** - Practices reading, writing, listening, and speaking in a second language.
 - **[dinqe/language-tutor](https://github.com/dinqe/language-tutor)** - Diagnoses your level and runs adaptive per-language tutoring sessions with an error ledger.
 - **[gislio/claude-language-tutor](https://github.com/gislio/claude-language-tutor)** - Assesses your CEFR level and runs adaptive lessons in any target language.
 - **[hamsamilton/lang-tutor](https://github.com/hamsamilton/lang-tutor)** - Gives grammar corrections and vocabulary help in your target language.
@@ -295,10 +297,12 @@ Translation practice, vocabulary drilling, and grammar correction in a target (n
 
 Personal statements, resume building, interview prep, and side-project launches.
 
+Personal-statement tools overlap here too. To pick one: **Academic-Essay-Reviewer** reviews a draft against a simulated admissions committee rather than writing one; **pscher** generates statements for Hong Kong university applications specifically; **SOP_Consultant** is scoped to grad-school statements of purpose; and **pm-claude-skills - personal-statement** drafts a university or grad-school statement from scratch around motivation and fit.
+
 Several resume tools overlap here. To pick one: **tailored-resume-generator** and **resume-tailoring-skill** do plain tailoring to a single job description; **ResumeSkills** adds ATS-compatibility scoring and interview prep; **career-ops** wraps a full job-search workflow that also scores listings and tracks applications; **resume-tailor-plugin** (under [Plugins](#plugins)) is the same tailoring packaged as a full Claude Code plugin rather than a single skill; and **danielrosehill/Claude-Career-Plugin** (also under [Plugins](#plugins)) bundles resume, cover-letter, and interview-prep commands into one broader career-operations plugin.
 
 <details open>
-<summary>Show 17 skills</summary>
+<summary>Show 18 skills</summary>
 
 - **[AnayDhawan/oss-launch](https://github.com/AnayDhawan/oss-launch)** - Shipped a side project? Scaffold the OSS launch files (README/LICENSE/CI/launch plan) and use it as application signal.
 - **[borghei/Claude-Skills - research/grants](https://github.com/borghei/Claude-Skills/tree/main/research/grants)** - Structures a scholarship or grant proposal around fit, narrative, and budget instead of boilerplate.
@@ -309,6 +313,7 @@ Several resume tools overlap here. To pick one: **tailored-resume-generator** an
 - **[fronkt/Academic-Essay-Reviewer](https://github.com/fronkt/Academic-Essay-Reviewer)** - Reviews Common App and UC personal statements via a simulated admissions committee.
 - **[Haadhi76/SOP_Consultant](https://github.com/Haadhi76/SOP_Consultant)** - Drafts and critiques grad-school statements of purpose using genre-analysis research.
 - **[kevinryan-au/claude-cover-letter](https://github.com/kevinryan-au/claude-cover-letter)** - Turns a pasted job posting into a tailored, one-page cover letter.
+- **[mohitagw15856/pm-claude-skills - personal-statement](https://github.com/mohitagw15856/pm-claude-skills/tree/main/skills/personal-statement)** - Drafts university and grad-school personal statements around motivation and fit.
 - **[noamseg/interview-coach-skill](https://github.com/noamseg/interview-coach-skill)** - Coaches networking outreach, informational-interview requests, and referral asks for job seekers.
 - **[Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills)** - Resume optimization, ATS scoring, and interview prep skills.
 - **[rx290/grant-compass](https://github.com/rx290/grant-compass)** - 🌐 Finds fully-funded scholarships and matching professors scored against your grades.
