@@ -1651,5 +1651,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "flowful-ai/cad-skill",
+    "url": "https://github.com/flowful-ai/cad-skill",
+    "description": "Generates parametric, 3D-printable CAD models from part descriptions with CadQuery.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

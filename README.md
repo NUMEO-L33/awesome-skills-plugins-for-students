@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-138-blue)
+![Skills](https://img.shields.io/badge/skills-139-blue)
 ![Plugins](https://img.shields.io/badge/plugins-27-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -88,7 +88,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 10 skills |
 | 🗂️ | [Study & Productivity](#study--productivity) | 23 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 27 skills |
-| 🔬 | [STEM Subjects](#stem-subjects) | 19 skills |
+| 🔬 | [STEM Subjects](#stem-subjects) | 20 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 17 skills |
 | 🗣️ | [Language Learning](#language-learning) | 10 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 17 skills |
@@ -208,11 +208,12 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 Math, physics, chemistry, and data analysis helpers.
 
 <details open>
-<summary>Show 19 skills</summary>
+<summary>Show 20 skills</summary>
 
 - **[24kchengYe/human-skill-tree - k12-sciences](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-sciences)** - Tutors K-12 physics, chemistry, and biology through Socratic, inquiry-based questioning.
 - **[abelsr/Computational-Physics](https://github.com/abelsr/Computational-Physics)** - Solves physics problems with Python and Jupyter notebooks, from mechanics to electromagnetism.
 - **[chrisvoncsefalvay/claude-d3js-skill](https://github.com/chrisvoncsefalvay/claude-d3js-skill)** - Builds interactive D3.js charts, graphs, and network diagrams for data analysis and reports.
+- **[flowful-ai/cad-skill](https://github.com/flowful-ai/cad-skill)** - Generates parametric, 3D-printable CAD models from part descriptions with CadQuery.
 - **[gemini-cli-extensions/datacommons](https://github.com/gemini-cli-extensions/datacommons)** - 🔑 Queries Data Commons public statistical datasets in natural language for research and coursework.
 - **[ghutchis/chem-skill](https://github.com/ghutchis/chem-skill)** - Renders 2D structure diagrams and 3D molecule viewers from chemical names.
 - **[googlarz/math-skill](https://github.com/googlarz/math-skill)** - Solves math problems step by step with built-in verification.
