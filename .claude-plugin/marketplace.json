@@ -1239,6 +1239,16 @@
       "description": "Retrieves and manages YYLO Ledger tasks, records, and dependencies."
     },
     {
+      "name": "agamm-claude-code-owasp-owasp-security",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/agamm/claude-code-owasp.git",
+        "path": ".claude/skills/owasp-security",
+        "ref": "main"
+      },
+      "description": "Reviews code for OWASP Top 10, ASVS, and LLM/agentic security risks."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1521,7 +1531,7 @@
     {
       "name": "coding-cs-bundle",
       "source": "./bundles/coding-cs-bundle",
-      "description": "Coding & CS Education skills in one install (26 skills).",
+      "description": "Coding & CS Education skills in one install (27 skills).",
       "dependencies": [
         "0xsarwagya-ontoly",
         "aidankinzett-claude-git-pr-skill",
@@ -1548,7 +1558,8 @@
         "nickcrew-claude-cortex-regex-master",
         "yappologistic-csharp-tutor-csharp-oop",
         "mayakas-claude-bash-tutor-skill",
-        "yylo-dev-yylo-skills-understand-project-yylo"
+        "yylo-dev-yylo-skills-understand-project-yylo",
+        "agamm-claude-code-owasp-owasp-security"
       ]
     },
     {

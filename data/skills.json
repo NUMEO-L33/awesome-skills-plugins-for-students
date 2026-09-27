@@ -1639,5 +1639,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "agamm/claude-code-owasp - owasp-security",
+    "url": "https://github.com/agamm/claude-code-owasp/tree/main/.claude/skills/owasp-security",
+    "description": "Reviews code for OWASP Top 10, ASVS, and LLM/agentic security risks.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
