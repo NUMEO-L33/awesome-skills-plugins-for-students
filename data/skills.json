@@ -1687,5 +1687,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "mpuche3/ipa-transcribe",
+    "url": "https://github.com/mpuche3/ipa-transcribe",
+    "description": "Transcribes English text into stress-marked IPA to teach precise pronunciation.",
+    "category": "Language Learning",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

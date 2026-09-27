@@ -1277,6 +1277,14 @@
       "description": "Runs a 12-week TOEFL iBT study plan with drills, mock tests, and graders."
     },
     {
+      "name": "mpuche3-ipa-transcribe",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mpuche3/ipa-transcribe.git"
+      },
+      "description": "Transcribes English text into stress-marked IPA to teach precise pronunciation."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1642,7 +1650,7 @@
     {
       "name": "language-learning-bundle",
       "source": "./bundles/language-learning-bundle",
-      "description": "Language Learning skills in one install (11 skills).",
+      "description": "Language Learning skills in one install (12 skills).",
       "dependencies": [
         "13riank-japanese-tutor",
         "gislio-claude-language-tutor",
@@ -1654,7 +1662,8 @@
         "skillmedev-skills-language-learning",
         "uriva-language-learning",
         "santimator-x3-suite-graded-reader",
-        "htlin222-toefl-skill"
+        "htlin222-toefl-skill",
+        "mpuche3-ipa-transcribe"
       ]
     },
     {
