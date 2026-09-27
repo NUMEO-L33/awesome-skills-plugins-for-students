@@ -1663,5 +1663,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "cdmorozov/claude-tutors - math-tutor",
+    "url": "https://github.com/cdmorozov/claude-tutors/tree/main/math-tutor",
+    "description": "Explains math, probability, and statistics concepts directly, then guides practice.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
