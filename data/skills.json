@@ -1675,5 +1675,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "htlin222/toefl-skill",
+    "url": "https://github.com/htlin222/toefl-skill/tree/main/toefl",
+    "description": "Runs a 12-week TOEFL iBT study plan with drills, mock tests, and graders.",
+    "category": "Language Learning",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
