@@ -1723,5 +1723,113 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "davila7/claude-code-templates - salary-negotiation-prep",
+    "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/salary-negotiation-prep",
+    "description": "Researches market pay and drafts a salary negotiation or counter-offer script.",
+    "category": "College Applications & Career",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "K-Dense-AI/scientific-agent-skills - astropy",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/astropy",
+    "description": "Solves astrophysics problems with Astropy: coordinates, cosmology, FITS, WCS.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "beita6969/ScienceClaw - neuroscience",
+    "url": "https://github.com/beita6969/ScienceClaw/tree/main/skills/neuroscience",
+    "description": "Guides neuroscience research: brain imaging, neural modeling, cognitive experiments.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "haowjy/creative-writing-skills - creative-writing-modes",
+    "url": "https://github.com/haowjy/creative-writing-skills/tree/main/skills/creative-writing-modes",
+    "description": "Drafts original fiction or poetry prose from a brief or outline.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "jamditis/claude-skills-journalism - data-journalism",
+    "url": "https://github.com/jamditis/claude-skills-journalism/tree/master/journalism-core/skills/data-journalism",
+    "description": "Acquires, cleans, analyzes, and verifies data for a news story.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "markpitt/claude-skills - gcse-english-literature-tutor",
+    "url": "https://github.com/markpitt/claude-skills/tree/main/skills/gcse-english-literature-tutor",
+    "description": "Tutors GCSE English Literature essays, including unseen-poetry commentary.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "eddiebelaval/squire - habit-tracker",
+    "url": "https://github.com/eddiebelaval/squire/tree/main/skills/habit-tracker",
+    "description": "Builds habits and tracks streaks using behavioral-science techniques.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "googleworkspace/cli - gws-people",
+    "url": "https://github.com/googleworkspace/cli/tree/main/skills/gws-people",
+    "description": "Manages Google Contacts: search, create, update, and export via the `gws` CLI.",
+    "category": "Google Workspace for Students",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "openclaw/gogcli - gog-photos",
+    "url": "https://github.com/openclaw/gogcli/tree/main/.agents/skills/gog-photos",
+    "description": "Manages Google Photos: search, list, and download via the `gog` CLI.",
+    "category": "Google Workspace for Students",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

@@ -1304,6 +1304,96 @@
       "description": "Drafts university and grad-school personal statements around motivation and fit."
     },
     {
+      "name": "davila7-claude-code-templates-salary-negotiation-prep",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/davila7/claude-code-templates.git",
+        "path": "cli-tool/components/skills/career/salary-negotiation-prep",
+        "ref": "main"
+      },
+      "description": "Researches market pay and drafts a salary negotiation or counter-offer script."
+    },
+    {
+      "name": "k-dense-ai-scientific-agent-skills-astropy",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+        "path": "skills/astropy",
+        "ref": "main"
+      },
+      "description": "Solves astrophysics problems with Astropy: coordinates, cosmology, FITS, WCS."
+    },
+    {
+      "name": "beita6969-scienceclaw-neuroscience",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/beita6969/ScienceClaw.git",
+        "path": "skills/neuroscience",
+        "ref": "main"
+      },
+      "description": "Guides neuroscience research: brain imaging, neural modeling, cognitive experiments."
+    },
+    {
+      "name": "haowjy-creative-writing-skills-creative-writing-modes",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/haowjy/creative-writing-skills.git",
+        "path": "skills/creative-writing-modes",
+        "ref": "main"
+      },
+      "description": "Drafts original fiction or poetry prose from a brief or outline."
+    },
+    {
+      "name": "jamditis-claude-skills-journalism-data-journalism",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/jamditis/claude-skills-journalism.git",
+        "path": "journalism-core/skills/data-journalism",
+        "ref": "master"
+      },
+      "description": "Acquires, cleans, analyzes, and verifies data for a news story."
+    },
+    {
+      "name": "markpitt-claude-skills-gcse-english-literature-tutor",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/markpitt/claude-skills.git",
+        "path": "skills/gcse-english-literature-tutor",
+        "ref": "main"
+      },
+      "description": "Tutors GCSE English Literature essays, including unseen-poetry commentary."
+    },
+    {
+      "name": "eddiebelaval-squire-habit-tracker",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/eddiebelaval/squire.git",
+        "path": "skills/habit-tracker",
+        "ref": "main"
+      },
+      "description": "Builds habits and tracks streaks using behavioral-science techniques."
+    },
+    {
+      "name": "googleworkspace-cli-gws-people",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/googleworkspace/cli.git",
+        "path": "skills/gws-people",
+        "ref": "main"
+      },
+      "description": "Manages Google Contacts: search, create, update, and export via the `gws` CLI."
+    },
+    {
+      "name": "openclaw-gogcli-gog-photos",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/openclaw/gogcli.git",
+        "path": ".agents/skills/gog-photos",
+        "ref": "main"
+      },
+      "description": "Manages Google Photos: search, list, and download via the `gog` CLI."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1557,7 +1647,7 @@
     {
       "name": "study-productivity-bundle",
       "source": "./bundles/study-productivity-bundle",
-      "description": "Study & Productivity skills in one install (22 skills; 1 paid-key skill excluded, install separately).",
+      "description": "Study & Productivity skills in one install (23 skills; 1 paid-key skill excluded, install separately).",
       "dependencies": [
         "anthropics-docx",
         "anthropics-internal-comms",
@@ -1580,7 +1670,8 @@
         "yylo-dev-yylo-skills-plan-ledger-tasks-yylo",
         "finewood2008-centaurai-team-team-project-tracker",
         "yylo-dev-yylo-skills-ledger-tasks-yylo",
-        "jellypod-inc-school-skills-lecture-to-study-guide"
+        "jellypod-inc-school-skills-lecture-to-study-guide",
+        "eddiebelaval-squire-habit-tracker"
       ]
     },
     {
@@ -1620,7 +1711,7 @@
     {
       "name": "stem-bundle",
       "source": "./bundles/stem-bundle",
-      "description": "STEM Subjects skills in one install (18 skills; 3 paid-key skills excluded, install separately).",
+      "description": "STEM Subjects skills in one install (20 skills; 3 paid-key skills excluded, install separately).",
       "dependencies": [
         "24kchengye-human-skill-tree-k12-sciences",
         "abelsr-computational-physics",
@@ -1639,13 +1730,15 @@
         "somenssarkar-gurukul-ai-gurukul-ai-physics",
         "majiayu000-claude-skill-registry-environmental-geography",
         "flowful-ai-cad-skill",
-        "cdmorozov-claude-tutors-math-tutor"
+        "cdmorozov-claude-tutors-math-tutor",
+        "k-dense-ai-scientific-agent-skills-astropy",
+        "beita6969-scienceclaw-neuroscience"
       ]
     },
     {
       "name": "writing-humanities-bundle",
       "source": "./bundles/writing-humanities-bundle",
-      "description": "Writing & Humanities skills in one install (17 skills).",
+      "description": "Writing & Humanities skills in one install (20 skills).",
       "dependencies": [
         "lishix520-academic-paper-skills",
         "basicmachines-co-basic-memory-memory-literary-analysis",
@@ -1663,7 +1756,10 @@
         "xwmxcz-papers-skill",
         "jimmytoluene-skill-adhd-healer-adhd-presentation-coach",
         "gnurio-nurijanian-skills-rulebook-for-arguments",
-        "onewave-ai-claude-skills-debate-simulator"
+        "onewave-ai-claude-skills-debate-simulator",
+        "haowjy-creative-writing-skills-creative-writing-modes",
+        "jamditis-claude-skills-journalism-data-journalism",
+        "markpitt-claude-skills-gcse-english-literature-tutor"
       ]
     },
     {
@@ -1689,7 +1785,7 @@
     {
       "name": "college-career-bundle",
       "source": "./bundles/college-career-bundle",
-      "description": "College Applications & Career skills in one install (18 skills).",
+      "description": "College Applications & Career skills in one install (19 skills).",
       "dependencies": [
         "espindolavinicius-linkedin-growth-skill",
         "fronkt-academic-essay-reviewer",
@@ -1708,13 +1804,14 @@
         "x-tong6-pscher",
         "haadhi76-sop-consultant",
         "noamseg-interview-coach-skill",
-        "mohitagw15856-pm-claude-skills-personal-statement"
+        "mohitagw15856-pm-claude-skills-personal-statement",
+        "davila7-claude-code-templates-salary-negotiation-prep"
       ]
     },
     {
       "name": "google-workspace-bundle",
       "source": "./bundles/google-workspace-bundle",
-      "description": "Google Workspace for Students skills in one install (15 skills).",
+      "description": "Google Workspace for Students skills in one install (17 skills).",
       "dependencies": [
         "eranw2000-google-slides-skill",
         "googleworkspace-cli-gws-meet",
@@ -1730,7 +1827,9 @@
         "googleworkspace-gws-slides",
         "googleworkspace-gws-tasks",
         "hashemalskkkaf-exam-prep-mcq",
-        "openclaw-gogcli-gog-sites"
+        "openclaw-gogcli-gog-sites",
+        "googleworkspace-cli-gws-people",
+        "openclaw-gogcli-gog-photos"
       ]
     }
   ]
