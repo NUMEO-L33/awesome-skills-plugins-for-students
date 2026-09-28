@@ -1026,16 +1026,6 @@
       "description": "Builds a talk stage by stage, then times the rehearsal."
     },
     {
-      "name": "vishnu-tppr-everything-cbse-board-revision-planner",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/Vishnu-tppr/everything-cbse-board.git",
-        "path": "12th/skills/revision-planner",
-        "ref": "main"
-      },
-      "description": "Builds a day-by-day revision countdown across your weak subjects."
-    },
-    {
       "name": "rwgb-vibe-guardrails-save-points",
       "source": {
         "source": "git-subdir",
@@ -1567,7 +1557,7 @@
     {
       "name": "study-productivity-bundle",
       "source": "./bundles/study-productivity-bundle",
-      "description": "Study & Productivity skills in one install (23 skills; 1 paid-key skill excluded, install separately).",
+      "description": "Study & Productivity skills in one install (22 skills; 1 paid-key skill excluded, install separately).",
       "dependencies": [
         "anthropics-docx",
         "anthropics-internal-comms",
@@ -1587,7 +1577,6 @@
         "sickn33-agentic-awesome-skills-bulletmind",
         "sickn33-agentic-awesome-skills-examprep-ai",
         "zarazhangrui-frontend-slides",
-        "vishnu-tppr-everything-cbse-board-revision-planner",
         "yylo-dev-yylo-skills-plan-ledger-tasks-yylo",
         "finewood2008-centaurai-team-team-project-tracker",
         "yylo-dev-yylo-skills-ledger-tasks-yylo",
