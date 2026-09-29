@@ -67,6 +67,14 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 | College Applications & Career | 12 | `claude plugin install college-career-bundle` |
 | Google Workspace for Students | 11 | `claude plugin install google-workspace-bundle` |
 
+**Google Workspace setup:** `google-workspace-bundle` includes skills for three
+independent CLIs: `googleworkspace/cli` (`gws`), `openclaw/gogcli` (`gog`),
+and `omriariav/workspace-cli` (a separate, unofficial `gws`). Each needs its
+own installation and authentication; signing in to one does not configure
+the others. The `gws-groups` skill also requires Workspace admin rights.
+See [Google Workspace for Students](#google-workspace-for-students) for the
+project distinctions and setup guidance.
+
 Every 🔑 entry (needs a paid API key or separate account) is excluded from
 every bundle by design, so a default bundle install never silently expects
 one — install those individually if you want them.
