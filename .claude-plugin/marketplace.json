@@ -1401,7 +1401,7 @@
         "path": "plugins/gws/skills/groups",
         "ref": "main"
       },
-      "description": "Lists Google Groups and members via a separate `gws` CLI."
+      "description": "Lists Google Groups and members via a separate `gws` CLI (requires Workspace admin rights)."
     },
     {
       "name": "markpitt-claude-skills-gcse-physics-tutor",
