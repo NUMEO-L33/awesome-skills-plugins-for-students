@@ -1835,7 +1835,7 @@
   {
     "name": "omriariav/workspace-cli - gws-groups",
     "url": "https://github.com/omriariav/workspace-cli/tree/main/plugins/gws/skills/groups",
-    "description": "Lists Google Groups and members via a separate `gws` CLI.",
+    "description": "Lists Google Groups and members via a separate `gws` CLI (requires Workspace admin rights).",
     "category": "Google Workspace for Students",
     "marker": null,
     "supported_tools": [
