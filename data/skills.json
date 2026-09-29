@@ -1831,5 +1831,65 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "omriariav/workspace-cli - gws-groups",
+    "url": "https://github.com/omriariav/workspace-cli/tree/main/plugins/gws/skills/groups",
+    "description": "Lists Google Groups and members via a separate `gws` CLI.",
+    "category": "Google Workspace for Students",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "markpitt/claude-skills - gcse-physics-tutor",
+    "url": "https://github.com/markpitt/claude-skills/tree/main/skills/gcse-physics-tutor",
+    "description": "Tutors GCSE Physics across AQA, Edexcel, OCR, and WJEC syllabuses.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "K-Dense-AI/scientific-agent-skills - biopython",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/biopython",
+    "description": "Runs Biopython for sequence analysis, BLAST searches, and phylogenetics.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "YANZHANLIN/ielts-claude-skills",
+    "url": "https://github.com/YANZHANLIN/ielts-claude-skills",
+    "description": "Coaches IELTS prep across writing grading, reading drills, and speaking.",
+    "category": "Language Learning",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "Canhada-Labs/ceo-orchestration - study-abroad-advisory",
+    "url": "https://github.com/Canhada-Labs/ceo-orchestration/tree/main/.claude/skills/domains/edtech/skills/study-abroad-advisory",
+    "description": "Advises on study-abroad destinations, school lists, essays, and visa prep.",
+    "category": "College Applications & Career",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

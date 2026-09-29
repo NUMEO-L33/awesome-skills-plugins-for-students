@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-153-blue)
+![Skills](https://img.shields.io/badge/skills-158-blue)
 ![Plugins](https://img.shields.io/badge/plugins-27-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -88,11 +88,11 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 10 skills |
 | 🗂️ | [Study & Productivity](#study--productivity) | 24 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 27 skills |
-| 🔬 | [STEM Subjects](#stem-subjects) | 23 skills |
+| 🔬 | [STEM Subjects](#stem-subjects) | 25 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 20 skills |
-| 🗣️ | [Language Learning](#language-learning) | 13 skills |
-| 🎓 | [College Applications & Career](#college-applications--career) | 19 skills |
-| 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 17 skills |
+| 🗣️ | [Language Learning](#language-learning) | 14 skills |
+| 🎓 | [College Applications & Career](#college-applications--career) | 20 skills |
+| 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 18 skills |
 | 🧩 | [Plugins](#plugins) | 27 plugins |
 
 [Install a bundle in one command](#install-a-bundle-in-one-command) &middot; [Compatibility Paths](#compatibility-paths) &middot; [Security Notice](#security-notice) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [License](#license)
@@ -209,7 +209,7 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 Math, physics, chemistry, and data analysis helpers.
 
 <details open>
-<summary>Show 23 skills</summary>
+<summary>Show 25 skills</summary>
 
 - **[24kchengYe/human-skill-tree - k12-sciences](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-sciences)** - Tutors K-12 physics, chemistry, and biology through Socratic, inquiry-based questioning.
 - **[abelsr/Computational-Physics](https://github.com/abelsr/Computational-Physics)** - Solves physics problems with Python and Jupyter notebooks, from mechanics to electromagnetism.
@@ -225,8 +225,10 @@ Math, physics, chemistry, and data analysis helpers.
 - **[jantoney/SamStudies - chemistry-tutor](https://github.com/jantoney/SamStudies/tree/main/.agents/skills/chemistry-tutor)** - Covers organic, inorganic, physical, and analytical chemistry with worked examples.
 - **[juanlurg/data-science-claude-skills - experiment-tracker](https://github.com/juanlurg/data-science-claude-skills)** - Logs, compares, and visualizes lab experiment runs and results with local JSON storage.
 - **[K-Dense-AI/scientific-agent-skills - astropy](https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/astropy)** - Solves astrophysics problems with Astropy: coordinates, cosmology, FITS, WCS.
+- **[K-Dense-AI/scientific-agent-skills - biopython](https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/biopython)** - Runs Biopython for sequence analysis, BLAST searches, and phylogenetics.
 - **[majiayu000/claude-skill-registry - environmental-geography](https://github.com/majiayu000/claude-skill-registry/tree/main/skills/domains/environmental-geography)** - Covers climate change, land use, water, biodiversity, and sustainability science.
 - **[majiayu000/claude-skill-registry - statistics-math](https://github.com/majiayu000/claude-skill-registry/tree/main/skills/data/statistics-math)** - Applies statistical tests, probability calculations, and distribution analysis to data.
+- **[markpitt/claude-skills - gcse-physics-tutor](https://github.com/markpitt/claude-skills/tree/main/skills/gcse-physics-tutor)** - Tutors GCSE Physics across AQA, Edexcel, OCR, and WJEC syllabuses.
 - **[openai/spreadsheet](https://officialskills.sh/openai/skills/spreadsheet)** - Creates, edits, analyzes, and visualizes spreadsheets with formulas, handy for physics data tables and chemistry calculations.
 - **[somenssarkar/gurukul-ai - gurukul-ai-physics](https://github.com/somenssarkar/gurukul-ai/tree/main/.claude/skills/gurukul-ai-physics)** - Tutors physics concepts via Socratic questioning, diagrams, and misconception checks.
 - **[Stab-Rabbit-coding/SecureControllers - statics-and-dynamics](https://github.com/Stab-Rabbit-coding/SecureControllers/tree/main/.claude/skills/statics-and-dynamics)** - Solves statics and rigid-body dynamics problems with free-body diagrams.
@@ -278,7 +280,7 @@ Four entries overlap on planning and drafting a paper with no prior note on how 
 Translation practice, vocabulary drilling, and grammar correction in a target (non-English) language, for IB Language A/B and IGCSE second-language coursework.
 
 <details open>
-<summary>Show 13 skills</summary>
+<summary>Show 14 skills</summary>
 
 - **[13rianK/japanese-tutor](https://github.com/13rianK/japanese-tutor)** - Runs daily Japanese lessons with vocabulary, grammar, and graded practice.
 - **[24kchengYe/human-skill-tree - k12-languages](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-languages)** - Practices reading, writing, listening, and speaking in a second language.
@@ -293,6 +295,7 @@ Translation practice, vocabulary drilling, and grammar correction in a target (n
 - **[SkillMedev/skills - language-learning](https://github.com/SkillMedev/skills/tree/main/skills/language-learning)** - Plans language study with mandatory shadowing and early speaking practice.
 - **[tianmind-studio/english-coach](https://github.com/tianmind-studio/english-coach)** - Corrects English mistakes and teaches a micro-lesson during real conversations.
 - **[uriva/language-learning](https://github.com/uriva/language-learning)** - Runs SLA-research-based language lessons across 11 languages with comprehensible input.
+- **[YANZHANLIN/ielts-claude-skills](https://github.com/YANZHANLIN/ielts-claude-skills)** - Coaches IELTS prep across writing grading, reading drills, and speaking.
 
 </details>
 
@@ -307,10 +310,11 @@ Personal-statement tools overlap here too. To pick one: **Academic-Essay-Reviewe
 Several resume tools overlap here. To pick one: **tailored-resume-generator** and **resume-tailoring-skill** do plain tailoring to a single job description; **ResumeSkills** adds ATS-compatibility scoring and interview prep; **career-ops** wraps a full job-search workflow that also scores listings and tracks applications; **resume-tailor-plugin** (under [Plugins](#plugins)) is the same tailoring packaged as a full Claude Code plugin rather than a single skill; and **danielrosehill/Claude-Career-Plugin** (also under [Plugins](#plugins)) bundles resume, cover-letter, and interview-prep commands into one broader career-operations plugin.
 
 <details open>
-<summary>Show 19 skills</summary>
+<summary>Show 20 skills</summary>
 
 - **[AnayDhawan/oss-launch](https://github.com/AnayDhawan/oss-launch)** - Shipped a side project? Scaffold the OSS launch files (README/LICENSE/CI/launch plan) and use it as application signal.
 - **[borghei/Claude-Skills - research/grants](https://github.com/borghei/Claude-Skills/tree/main/research/grants)** - Structures a scholarship or grant proposal around fit, narrative, and budget instead of boilerplate.
+- **[Canhada-Labs/ceo-orchestration - study-abroad-advisory](https://github.com/Canhada-Labs/ceo-orchestration/tree/main/.claude/skills/domains/edtech/skills/study-abroad-advisory)** - Advises on study-abroad destinations, school lists, essays, and visa prep.
 - **[ComposioHQ/awesome-claude-skills - domain-name-brainstormer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/domain-name-brainstormer)** - 🌐 Generates domain name ideas and checks availability across TLDs for side projects.
 - **[ComposioHQ/awesome-claude-skills - tailored-resume-generator](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/tailored-resume-generator)** - Analyzes job descriptions and tailors resumes to highlight relevant experience and skills.
 - **[davila7/claude-code-templates - interactive-portfolio](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/interactive-portfolio)** - Scaffolds a personal portfolio or project website to link from applications.
@@ -339,10 +343,12 @@ Skills for Google's tools: Docs, Slides, Classroom, and more. Useful if your sch
 
 Two entries touch Google Slides: **googleworkspace/gws-slides** is a general-purpose CLI tool for reading and writing slide presentations as part of the `gws` suite, while **eranw2000/google-slides-skill** is a specialized visual design and branding tool that redesigns existing decks and visually verifies the output.
 
+Three different projects answer to `gws` or a lookalike name. **googleworkspace/gws-\*** (hosted on officialskills.sh) and **googleworkspace/cli - gws-\*** are the *same* official `gws` CLI: officialskills.sh just mirrors the skills already published in the `googleworkspace/cli` repo, so either link installs the identical tool. **omriariav/workspace-cli - gws-groups** is a separate, unofficial `gws` binary from an independent author that only shares the command name — install and authenticate it on its own, not via the official `gws` setup below. **openclaw/gogcli - gog-\*** is a third, unrelated CLI (`gog`, not `gws`) covering Google Photos and Sites.
+
 **HashemALSKKkAF/exam-prep-mcq** generates exam-prep MCQs like **sickn33/agentic-awesome-skills - examprep-ai** and **pinakdhabu/Exam-prompt** (both under [Study & Productivity](#study--productivity)), but its distinguishing feature is delivering the quiz as a native Google Form.
 
 <details open>
-<summary>Show 17 skills</summary>
+<summary>Show 18 skills</summary>
 
 - **[eranw2000/google-slides-skill](https://github.com/eranw2000/google-slides-skill)** - Redesigns Google Slides decks against branding and visually verifies output.
 - **[googleworkspace/cli - gws-meet](https://github.com/googleworkspace/cli/tree/main/skills/gws-meet)** - Manages Google Meet conference spaces, recordings, and transcripts via the `gws` CLI.
@@ -359,12 +365,13 @@ Two entries touch Google Slides: **googleworkspace/gws-slides** is a general-pur
 - **[googleworkspace/gws-slides](https://officialskills.sh/googleworkspace/skills/gws-slides)** - Read and write Google Slides presentations via the `gws` CLI.
 - **[googleworkspace/gws-tasks](https://officialskills.sh/googleworkspace/skills/gws-tasks)** - Manage Google Tasks task lists and tasks via the `gws` CLI.
 - **[HashemALSKKkAF/exam-prep-mcq](https://github.com/HashemALSKKkAF/exam-prep-mcq)** - Generates MCQ quizzes from study material and delivers them as a Google Form.
+- **[omriariav/workspace-cli - gws-groups](https://github.com/omriariav/workspace-cli/tree/main/plugins/gws/skills/groups)** - Lists Google Groups and members via a separate `gws` CLI.
 - **[openclaw/gogcli - gog-photos](https://github.com/openclaw/gogcli/tree/main/.agents/skills/gog-photos)** - Manages Google Photos: search, list, and download via the `gog` CLI.
 - **[openclaw/gogcli - gog-sites](https://github.com/openclaw/gogcli/tree/main/.agents/skills/gog-sites)** - Looks up and searches Google Sites via the `gog` CLI.
 
 </details>
 
-These skills require the [Google Workspace CLI (`gws`)](https://officialskills.sh/googleworkspace/skills/gws-shared) for auth. Install and authenticate once, then all `gws-*` skills work. (Note: Google Vids itself exists, but there is currently no official `gws-vids` skill in the `gws` CLI.)
+The **googleworkspace/gws-\*** and **googleworkspace/cli - gws-\*** skills above share one install: get the [Google Workspace CLI (`gws`)](https://officialskills.sh/googleworkspace/skills/gws-shared), authenticate once, and every official `gws-*` skill works. (Note: Google Vids itself exists, but there is currently no official `gws-vids` skill in the `gws` CLI.) **omriariav/workspace-cli - gws-groups** needs its own, separately installed `gws` binary and its own OAuth setup — see that project's own README, not the link above.
 
 ---
 
